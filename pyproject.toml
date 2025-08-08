@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "damagescan"
+description = "ML models for post-earthquake damage detection VHR SAR imagery"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "GPL-3"}
+dynamic = ["version"]
+dependencies = [
+    "scikit-learn==1.0.2",
+    "joblib",
+    "ipykernel",
+]
+
