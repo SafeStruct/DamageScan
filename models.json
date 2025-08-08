@@ -1,0 +1,7 @@
+{
+    "A" : "models/rf_compressed_Capella16-08-2021_ModelTransfer12.joblib",
+    "B" : "models/rf_compressed_Capella09-02-2023_ModelTransfer5.joblib",
+    "C" : "models/rf_compressed_Capella13-02-2023_ModelTransfer4.joblib",
+    "D" : "models/rf_compressed_Capella15-02-2023_ModelTransfer5.joblib",
+    "E" : "models/rf_compressed_Capella17-02-2023_ModelTransfer1.joblib"
+}
